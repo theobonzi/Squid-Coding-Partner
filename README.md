@@ -1,6 +1,6 @@
 # Squid - Your OpenAI GPT Custom Coding Partner
 
-![Capture d’écran du 2023-12-01 17-13-06](https://github.com/theobonzi/Squid-Coding-Partner/assets/55917899/127aa735-2fc1-4c89-9b18-ce252fcb95b2) [Squid-Conding-Partner](https://chat.openai.com/g/g-mkZbCnwTc-squid)
+![Squid](https://github.com/theobonzi/Squid-Coding-Partner/assets/55917899/6fd06b99-4d77-4b8c-b760-0fa201e5f9c5) [Squid-Conding-Partner](https://chat.openai.com/g/g-mkZbCnwTc-squid)
 
 Welcome to the official repository of **Squid**, an advanced AI-driven coding partner designed to assist developers in various coding tasks, from code review to tutorial creation and concept explanation. Squid is built to simplify complex coding challenges and enhance learning and productivity.
 
