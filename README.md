@@ -7,7 +7,7 @@ Welcome to the official repository of **Squid**, an advanced AI-driven coding pa
 
 #### Last Update
 **Date**: `01-12-2024` | 
-**Time**: `05:50 PM`
+**Time**: `05:50 PM (UTC)`
 
 ## What is Squid?
 Squid is a GPT-customized assistant that leverages cutting-edge AI technologies to offer a wide range of coding support. It is especially useful for:
