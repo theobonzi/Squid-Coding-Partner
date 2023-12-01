@@ -16,8 +16,6 @@ Squid is a GPT-customized assistant that leverages cutting-edge AI technologies 
 - **Step-by-Step Tutorials**: Whether you're a beginner or an experienced developer, Squid can guide you through complex programming tasks.
 - **Interactive Learning**: Squid uses analogies and visual aids to explain complex concepts, enhancing understanding.
 
-[//]: # (Introduction au projet Squid)
-
 ## How to Effectively Use Squid
 
 ### Submitting Code for Review
