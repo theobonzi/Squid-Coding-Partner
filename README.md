@@ -43,7 +43,7 @@ This format helps Squid to clearly identify and analyze your code effectively.
 For more information on how to interact effectively with AI like Squid, refer to OpenAI's documentation on prompt engineering, which offers valuable insights and best practices for communicating with AI models. You can find it here: [OpenAI Prompt Engineering Guidelines](https://platform.openai.com/docs/guides/prompt-engineering).
 
 ## Feedback and Support
-Your feedback is invaluable to us. If you encounter any issues or have suggestions, please open an issue in the [Issue Tracker](#link-to-issues).
+Your feedback is invaluable to us. If you encounter any issues or have suggestions, please open an issue in the [Issue Tracker](https://github.com/theobonzi/Squid-Coding-Partner/issues).
 
 ## Stay Connected
 Stay updated on the latest developments and join our community.
