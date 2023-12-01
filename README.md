@@ -40,7 +40,7 @@ This format helps Squid to clearly identify and analyze your code effectively.
 - **Step-by-Step Guidance**: When learning a new concept or working through a project, request step-by-step guidance from Squid. This methodical approach is crucial for thorough understanding and effective learning.
 
 ### Further Resources
-For more information on how to interact effectively with AI like Squid, refer to OpenAI's documentation on prompt engineering, which offers valuable insights and best practices for communicating with AI models. You can find it here: [OpenAI Prompt Engineering Guidelines]([https://openai.com/documentation](https://platform.openai.com/docs/guides/prompt-engineering)).
+For more information on how to interact effectively with AI like Squid, refer to OpenAI's documentation on prompt engineering, which offers valuable insights and best practices for communicating with AI models. You can find it here: [OpenAI Prompt Engineering Guidelines](https://platform.openai.com/docs/guides/prompt-engineering).
 
 ## Feedback and Support
 Your feedback is invaluable to us. If you encounter any issues or have suggestions, please open an issue in the [Issue Tracker](#link-to-issues).
