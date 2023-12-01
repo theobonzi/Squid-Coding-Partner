@@ -3,11 +3,11 @@
 
 **[Squid-Conding-Partner](https://chat.openai.com/g/g-mkZbCnwTc-squid)**
 
-## Last Update
+Welcome to the official repository of **Squid**, an advanced AI-driven coding partner designed to assist developers in various coding tasks, from code review to tutorial creation and concept explanation. Squid is built to simplify complex coding challenges and enhance learning and productivity.
+
+#### Last Update
 **Date**: `01-12-2024` | 
 **Time**: `05:50 PM`
-
-Welcome to the official repository of **Squid**, an advanced AI-driven coding partner designed to assist developers in various coding tasks, from code review to tutorial creation and concept explanation. Squid is built to simplify complex coding challenges and enhance learning and productivity.
 
 ## What is Squid?
 Squid is a GPT-customized assistant that leverages cutting-edge AI technologies to offer a wide range of coding support. It is especially useful for:
