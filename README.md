@@ -1,5 +1,5 @@
 # 🐙 Squid - Your OpenAI GPT Custom Coding Partner
-![Squid](https://github.com/theobonzi/Squid-Coding-Partner/assets/55917899/6fd06b99-4d77-4b8c-b760-0fa201e5f9c5)
+![Squid (1)](https://github.com/theobonzi/Squid-Coding-Partner/assets/55917899/9cb32e88-fd92-4803-a93c-ba003f8a278b)
 
 **[Squid-Conding-Partner](https://chat.openai.com/g/g-mkZbCnwTc-squid)**
 
